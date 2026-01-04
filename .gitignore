@@ -1,0 +1,47 @@
+#  Entorno virtual de Python
+env/
+venv/
+*.pyc
+__pycache__/
+venv
+
+#  Archivos de dependencias
+*.egg-info/
+dist/
+build/
+
+#  Jupyter Notebooks temporales
+.ipynb_checkpoints/
+
+#  Archivos de datos 
+data/raw/
+data/interim/
+data/processed/
+*.csv
+*.xlsx
+*.json
+
+
+# --- MODELOS ENTRENADOS ---
+# 1. Ignoramos archivos binarios pesados en cualquier lugar
+*.pkl
+*.joblib
+*.h5
+
+# 2. Ignoramos el CONTENIDO de la carpeta modelos (nota el asterisco)
+modelos/*
+
+# 3. EXCEPCIÓN: ¡Abrimos la puerta solo para el pack!
+# El signo '!' le dice a Git: "No ignores este archivo específico"
+!modelos/modelo_inmuebles_pack.pkl
+
+# Configuración local de VS Code
+.vscode/
+
+#  Documentación generada
+docs/_build/
+
+#  Archivos sensibles
+.env
+*.key
+*.pem
