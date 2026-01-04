@@ -96,9 +96,15 @@ Sigue estos pasos para correr el proyecto en tu computadora:
 └── README.md              # Documentación del proyecto
 ```
 
-👩‍💻 Autora y Contacto
-Ruth Cruz - Analista de datos
+## 👩‍💻 Autora y Contacto
 
-<a href="https://www.linkedin.com/in/ruthncruz/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/RuthCruz09" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+**Ruth Cruz** - *Analista de datos*
 
+<a href="https://www.linkedin.com/in/ruthncruz/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/RuthCruz09" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
+---
