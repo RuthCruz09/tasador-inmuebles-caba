@@ -1,6 +1,6 @@
 # 🏠 Predicción de Precios Inmobiliarios en  CABA ( Projecto de Machine Learning de comienzo a fin)
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -20,7 +20,7 @@ Este proyecto es una solución completa de **Data Science** diseñada para estim
 
 El flujo de trabajo abarca el ciclo de vida completo del dato:
 
-1.  🕷️ **Web Scraping:** Extracción automatizada de datos de la página web de *Inmuebles Clarín*.
+1.  🕷️ **Web Scraping:** Extracción automatizada de datos de la página web de *Inmuebles Clarín*. Puedes ver el código de extracción en este [repositorio](https://github.com/RuthCruz09/scraping-inmuebles).
 2.  🧹 **Data Cleaning & ETL:**
     * Imputación de valores faltantes (MICE).
     * Detección y eliminación de outliers (Filtros de superficie y precio).
@@ -83,6 +83,8 @@ Sigue estos pasos para correr el proyecto en tu computadora:
 
 ---
 
+
+
 ## 📂 Estructura del Proyecto
 
 ```text
@@ -92,8 +94,11 @@ Sigue estos pasos para correr el proyecto en tu computadora:
 ├── app.py                 # Código fuente de la aplicación Streamlit
 ├── requirements.txt       # Lista de librerías necesarias
 └── README.md              # Documentación del proyecto
+```
 
-👨‍💻 Autora y Contacto
+👩‍💻 Autora y Contacto
 Ruth Cruz - Analista de datos
 
 <a href="https://www.linkedin.com/in/ruthncruz/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/RuthCruz09" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+
+
